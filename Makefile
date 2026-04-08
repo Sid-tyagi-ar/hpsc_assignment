@@ -6,6 +6,6 @@ run: all
 
 plot:
 	python3 plot.py
-	python3 combiner.py
+	python3 combine.py
 clean:
 	rm -f sim *.txt *.png
