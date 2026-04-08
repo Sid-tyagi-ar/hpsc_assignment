@@ -14,7 +14,6 @@ It also includes a Python script for generating plots to verify correctness and 
 ### Compile
 ```bash
 make
-Run Simulation
 make run
 ```
 
