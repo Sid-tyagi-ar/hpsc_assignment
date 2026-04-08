@@ -20,8 +20,9 @@ make run
 This generates output data files (.txt) used for plotting.
 
 # Generate Plots
+``` bash
 make plot
-
+```
 This produces:
 Free fall (numerical vs analytical)
 Error vs timestep
