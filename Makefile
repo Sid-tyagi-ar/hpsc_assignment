@@ -5,7 +5,7 @@ run: all
 	./sim
 
 plot:
-	python3 plot_helper.py
-
+	python3 plot.py
+	python3 combiner.py
 clean:
 	rm -f sim *.txt *.png
